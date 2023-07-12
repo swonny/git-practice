@@ -7,4 +7,12 @@
 - [글로](https://github.com/swonny/git-practice/blob/develop/glo.md)
 - [멘델](https://github.com/swonny/git-practice/blob/develop/mendel.md)
 - [지토](https://github.com/swonny/git-practice/blob/develop/zeeto.md)
-  
+
+
+# 프로젝트 소개
+
+땅땅땅은 중고 물품 경매 서비스입니다.
+
+# 담당 캡틴
+
+제이슨, 워니
